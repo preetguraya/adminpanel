@@ -48,10 +48,10 @@
         
                                 <form class="mt-5 mb-5 login-input" method="post" >
                                     <div class="form-group">
-                                        <input type="email" id="id1" class="form-control" placeholder="Email">
+                                        <input type="email" id="id1" class="form-control" placeholder="Email" value="kaur@gmail.com">
                                     </div>
                                     <div class="form-group">
-                                        <input type="password" id="id2" class="form-control" placeholder="Password">
+                                        <input type="password" id="id2" class="form-control" placeholder="Password" value="1234">
                                     </div>
 									
                                     <button type="button" class="btn login-form__btn submit w-100">Log In</button>
