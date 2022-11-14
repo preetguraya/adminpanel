@@ -51,7 +51,7 @@
                                         <input type="email" id="id1" class="form-control" placeholder="Email" value="kaur@gmail.com">
                                     </div>
                                     <div class="form-group">
-                                        <input type="password" id="id2" class="form-control" placeholder="Password" value="1234">
+                                        <input type="password" id="id2" class="form-control" placeholder="Password" value="12345678">
                                     </div>
 									
                                     <button type="button" class="btn login-form__btn submit w-100">Log In</button>
