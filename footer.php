@@ -3,7 +3,7 @@
         ***********************************-->
         <div class="footer">
             <div class="copyright">
-                <p>Copyright &copy; <a href="https://themeforest.net/user/quixlab">Admin Panel</a> 2022</p>
+                <p>Copyright &copy; Admin Panel 2022</p>
             </div>
         </div>
         <!--**********************************
